@@ -11,6 +11,14 @@ provide solutions. Entrepreneur and self-taught, I try to look
 **beyond the current limits** to answer questions that affect our
 daily environment.
 
+### Certificates 📜
+- **Git and GitHub 100% Practical**. Udemy. *2021*
+- **LaTeX Course (Step by Step) from 0**. TubeStudy. *2020*
+- **The Science Behind COVID19 and SARS-CoV-2**. CEGICEP. *2020*
+- **R Course for Basic Models of Machine Learning**. Udemy. *2020*
+
+You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/) here.
+
 ### Technological tools 👨🏻‍💻
 - **Data Science and Data Analytics**:
   - R language <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" width="20" />
@@ -28,7 +36,7 @@ daily environment.
   - GNU/Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="20" />
   - Windows <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="20" />
 
-### Where can you find me? 🙎‍♂📍
+### Where can you find me? 🙋🏻‍♂️📍
 - [Visit my website](https://itsmiguelrojas.github.io/) 🌐
 - [Connect with me](https://www.linkedin.com/in/itsmiguelrojas/) <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
 - [Work with me](https://www.fiverr.com/itsmiguelrojas) <img src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-23d4a3fd56a87eaf5a93ddf35a220811.png" width="20" />
