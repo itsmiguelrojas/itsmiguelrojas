@@ -1,4 +1,4 @@
-<img src="illustration.png" align="right" width="450"/>
+<img src="illustration.png" align="right" width="350"/>
 
 ### Welcome / Bienvenido / Bonvenon 👋
 
