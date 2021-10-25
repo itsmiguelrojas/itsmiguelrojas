@@ -14,6 +14,7 @@ daily environment.
 ---
 
 ### Certificates 📜
+
 - **Git and GitHub 100% Practical**. Udemy. *2021*
 - **LaTeX Course (Step by Step) from 0**. TubeStudy. *2020*
 - **The Science Behind COVID19 and SARS-CoV-2**. CEGICEP. *2020*
@@ -60,8 +61,28 @@ You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/
 ---
 
 ### Where can you find me? 🙋🏻‍♂️📍
-- [Visit my website](https://itsmiguelrojas.github.io/) 🌐
-- [Connect with me](https://www.linkedin.com/in/itsmiguelrojas/) <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
-- [Work with me](https://www.fiverr.com/itsmiguelrojas) <img src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-23d4a3fd56a87eaf5a93ddf35a220811.png" width="20" />
-- [See my posts](https://www.instagram.com/itsmiguelrojas/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="20" />
-- [See my notebooks](https://www.kaggle.com/itsmiguelrojas) <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="20" />
+
+<div>
+  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="20" align="left"/><a href="https://itsmiguelrojas.github.io/">Visit my website</a></h4>
+  <p>Here you can see all my works, from post writing to data science to creative writing</p>
+</div>
+
+<div align="right">
+  <h4><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" align="right"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">Connect with me</a></h4>
+  <p>Let's get in contact. Maybe you got something to say or want to get down to work. I'm always open to possibilities, so feel free to talk</p>
+</div>
+
+<div>
+  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" width="45" align="left"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">Work with me</a></h4>
+  <p>I can do your data analysis and schematics illustration. Go check it out yourself!</p>
+</div>
+
+<div align="right">
+  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="20" align="right"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">See my posts</a></h4>
+  <p>I'm constantly showing visuals of what I do and explain what it is used for</p>
+</div>
+
+<div>
+  <h4><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="20" align="left"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">See my notebooks</a></h4>
+  <p>Here I show you how I work from first loading the data and its exploration to the several analysis and its treatments</p>
+</div>
