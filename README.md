@@ -2,8 +2,6 @@
 
 ### Welcome / Bienvenido / Bonvenon 👋
 
----
-
 I am a young university student (actually pursuing a **biology degree** at
 Central University of Venezuela) inclined to understand **current facts**,
 interested in presenting and communicating scientific information to
@@ -25,7 +23,7 @@ You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/
 
 ---
 
-### Technological tools 👨🏻‍💻
+### Technologies and tools 👨🏻‍💻
 
 <table border="1">
   <tr>
