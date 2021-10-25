@@ -2,6 +2,8 @@
 
 ### Welcome / Bienvenido / Bonvenon 👋
 
+---
+
 I am a young university student (actually pursuing a **biology degree** at
 Central University of Venezuela) inclined to understand **current facts**,
 interested in presenting and communicating scientific information to
@@ -11,6 +13,8 @@ provide solutions. Entrepreneur and self-taught, I try to look
 **beyond the current limits** to answer questions that affect our
 daily environment.
 
+---
+
 ### Certificates 📜
 - **Git and GitHub 100% Practical**. Udemy. *2021*
 - **LaTeX Course (Step by Step) from 0**. TubeStudy. *2020*
@@ -18,6 +22,8 @@ daily environment.
 - **R Course for Basic Models of Machine Learning**. Udemy. *2020*
 
 You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/) here.
+
+---
 
 ### Technological tools 👨🏻‍💻
 
@@ -60,6 +66,8 @@ You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/
     </tr>
   </tbody>
 </table>
+
+---
 
 ### Where can you find me? 🙋🏻‍♂️📍
 - [Visit my website](https://itsmiguelrojas.github.io/) 🌐
