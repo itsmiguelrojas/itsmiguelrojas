@@ -73,16 +73,16 @@ You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/
 </div>
 
 <div>
-  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" width="45" align="left"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">Work with me</a></h4>
+  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" width="45" align="left"/><a href="https://www.fiverr.com/itsmiguelrojas">Work with me</a></h4>
   <p>I can do your data analysis and schematics illustration. Go check it out yourself!</p>
 </div>
 
 <div align="right">
-  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="20" align="right"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">See my posts</a></h4>
+  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="20" align="right"/><a href="https://www.instagram.com/itsmiguelrojas/">See my posts</a></h4>
   <p>I'm constantly showing visuals of what I do and explain what it is used for</p>
 </div>
 
 <div>
-  <h4><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="20" align="left"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">See my notebooks</a></h4>
+  <h4><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="20" align="left"/><a href="https://www.kaggle.com/itsmiguelrojas">See my notebooks</a></h4>
   <p>Here I show you how I work from first loading the data and its exploration to the several analysis and its treatments</p>
 </div>
