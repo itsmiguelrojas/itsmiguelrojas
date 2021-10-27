@@ -61,7 +61,13 @@ You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/
 
 ---
 
-### Where can you find me? 🙋🏻‍♂️📍
+### Stats 📊 📈
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmiguelrojas&hide=html&exclude_repo=blog&card_width=500&theme=cobalt" align="center" />
+
+---
+
+### Where can you find me? 🙋🏻‍♂️ 📍
 
 <div>
   <h4><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="20" align="left"/><a href="https://itsmiguelrojas.github.io/">Visit my website</a></h4>
