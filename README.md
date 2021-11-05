@@ -13,18 +13,6 @@ daily environment.
 
 ---
 
-### Certificates 📜
-
-- **A crash course in Evolutionary Biology**. Udemy. *In progress*
-- **Git and GitHub 100% Practical**. Udemy. *2021*
-- **LaTeX Course (Step by Step) from 0**. TubeStudy. *2020*
-- **The Science Behind COVID19 and SARS-CoV-2**. CEGICEP. *2020*
-- **R Course for Basic Models of Machine Learning**. Udemy. *2020*
-
-You can see [all my certificates](https://itsmiguelrojas.github.io/certificates/) here.
-
----
-
 ### Technologies and tools 👨🏻‍💻
 
 <table align="center">
