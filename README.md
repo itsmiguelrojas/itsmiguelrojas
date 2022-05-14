@@ -5,7 +5,7 @@
 I'm pursuing a **biology degree** at Central University of Venezuela. I love looking at **data**, identify patterns, visualize information
 and contemplate the beauty of **nature**.
 
-When not focused on statistics, I'm learning about web development, web design and writing (both fiction and non-fiction)
+When not focused on statistics, I'm learning about web development, web design and writing (both fiction and non-fiction).
 
 ---
 
