@@ -12,20 +12,26 @@ When not focused on statistics, I'm learning about web development, web design a
 ### <p align="center">Technologies and tools 👨🏻‍💻</p>
 
 - **Data Science and Data Analytics**:
-  - R language <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" width="20" />
-  - MS Excel <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" width="20" />
-  - GeoGebra <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/2048px-Geogebra.svg.png" width="20" />
+  - [![R][r-lang]](https://www.r-project.org/)
+  - [![Excel][ms-excel]](http://products.office.com/excel)
+  - [![Geogebra][geogebra]](https://www.geogebra.org/)
+
 - **Text documents**:
-  - MS Word <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" width="20" />
-  - Markdown <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" width="20" />
-  - R Markdown <img src="https://rmarkdown.rstudio.com/docs/reference/figures/logo.png" width="20" />
-  - LaTeX <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" width="25" />
+  - [![Word][ms-word]](http://products.office.com/word)
+  - [![Markdown][markdown]](https://daringfireball.net/projects/markdown/)
+  - [![LaTeX][latex]](http://www.latex-project.org/)
+
 - **Web development**:
-  - HTML5 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="20" />
-  - CSS3 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="14" />
+  - [![HTML][html]](https://html.spec.whatwg.org/)
+  - [![CSS][css]](https://www.w3.org/TR/CSS/#css)
+  - [![Bootstrap][bootstrap]](https://getbootstrap.com/)
+  - [![Atom][atom]](https://atom.io/)
+  - [![Notepad++][notepad]](https://notepad-plus-plus.org/)
+
 - **OS**:
-  - GNU/Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="20" />
-  - Windows <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="20" />
+  - [![Ubuntu][ubuntu]](https://ubuntu.com/)
+  - [![Linux Mint][mint]](https://www.linuxmint.com/)
+  - [![Windows][ms-windows]](http://windows.microsoft.com/)
 
 ---
 
@@ -55,3 +61,32 @@ When not focused on statistics, I'm learning about web development, web design a
   <h4><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="20" align="left"/><a href="https://www.kaggle.com/itsmiguelrojas">See my notebooks</a></h4>
   <p>Here I show you how I work from first loading the data and its exploration to the several analysis and its treatments</p>
 </div>
+
+<!-- Badges -->
+[r-lang]: https://img.shields.io/badge/-R_language-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=25
+
+[ms-excel]: https://img.shields.io/badge/-Microsoft_Excel-217346?logo=microsoft%20excel&logoColor=white&style=for-the-badge&logoWidth=25
+
+[geogebra]: https://img.shields.io/badge/-GeoGebra-9B9BFB?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNTAwLjAwMDAwMHB0IiBoZWlnaHQ9IjUwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDUwMC4wMDAwMDAgNTAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNTAwLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTIyMjYgNDY0NCBjLTg5IC0yMiAtMTc0IC03MSAtMjQ3IC0xNDQgLTc4IC03OSAtMTIyIC0xNjAgLTE0NSAtMjcwCmwtMTcgLTc4IC04NiAtMzggYy0yODIgLTEyNiAtNTY1IC0zMjggLTgwMSAtNTcwIGwtMTI2IC0xMjkgLTU5IDkgYy0xNDggMjMKLTMzMiAtNDEgLTQ0NSAtMTU0IC03MyAtNzMgLTEzNSAtMTk0IC0xNTAgLTI5NSAtMjYgLTE2OCAzNSAtMzUxIDE1NyAtNDY4CmwzOSAtMzcgLTE0IC05MyBjLTIwIC0xMzIgLTExIC00MzEgMTcgLTU1NCA1OCAtMjYxIDE3MiAtNDg3IDM0NiAtNjg3IGw3MwotODMgLTEwIC01NCBjLTIyIC0xMTggMTAgLTI2OSA3OCAtMzc3IDEwMCAtMTU2IDI2MCAtMjQzIDQ0OSAtMjQzIDE0NyAwIDI3Mgo1MCAzNzMgMTQ5IGw1NCA1MiAxMDcgLTE2IGMxNDAgLTIyIDQ3MyAtMjMgNjI2IC0xIDIzOCAzMyA1MzYgMTE3IDcyMiAyMDIKbDgyIDM3IDMzIC0yNiBjNDUgLTM0IDEzMCAtNzEgMTk2IC04NSAyNzMgLTU4IDU0NiAxMDcgNjI2IDM3OCAyMSA3MiAyMSAyMTcKMCAyOTMgbC0xNyA1OCA1NiA2NyBjMjkxIDM1OCA0NTQgNzM5IDQ4NiAxMTMyIGw5IDExMCA4NCA4MyBjNTYgNTUgOTMgMTAyCjExMSAxNDAgMTE5IDI0OSA0OCA1MzMgLTE3MSA2ODIgLTkxIDYyIC0xNjYgODcgLTI4MCA5NCBsLTkyIDUgLTgzIDg0IGMtMzE0CjMyNCAtNzM5IDUwNSAtMTI1OSA1MzkgbC0xMDggNyAtMzAgNDcgYy03NCAxMTUgLTIyMCAyMTYgLTM0OSAyNDAgLTczIDE0Ci0xNjQgMTEgLTIzNSAtNnogbTI4OCAtMTcyIGMxMDggLTUxIDE3OCAtMTMwIDIxMCAtMjQxIDUyIC0xNzggLTM1IC0zNzMgLTIwMgotNDUxIC0yMzEgLTEwOSAtNTAxIDMzIC01NDIgMjg1IC00OSAyOTggMjYxIDUzNSA1MzQgNDA3eiBtNjc1IC01NDEgYzI2MiAtNTUKNDg1IC0xNjMgNjc0IC0zMjUgbDc4IC02OCAtMTcgLTI1IGMtMTIwIC0xODQgLTEzNCAtMzczIC00MiAtNTYxIDU3IC0xMTYgMTg3Ci0yMjggMzA3IC0yNjMgMjMgLTcgNDUgLTE5IDQ4IC0yNiA4IC0yMCAtMjUgLTIwMSAtNTMgLTI5OSAtNTUgLTE4OCAtMTcwCi00MDYgLTMwNiAtNTc4IGwtNjcgLTg1IC01MyAyMiBjLTczIDI5IC0yNDggMzEgLTMyOCAzIC0xMzYgLTQ2IC0yNDkgLTE0MQotMzExIC0yNjEgLTQ0IC04NiAtNjAgLTE0OCAtNjMgLTI0NCAtMyAtNzMgLTMgLTc0IC0zNyAtOTEgLTcwIC0zNiAtMjM4IC05NAotMzY4IC0xMjYgLTIwOCAtNTMgLTM0MSAtNjcgLTU3NiAtNjEgLTExMCAzIC0yMTIgOSAtMjI3IDEzIC0yMyA1IC0yOSAxNCAtMzgKNjMgLTQ0IDIxNCAtMjMzIDM5MSAtNDUwIDQyMSAtMTAyIDE0IC0yMTYgLTMgLTMwMSAtNDYgbC00NiAtMjMgLTI1IDI3IGMtMTI2CjEzNiAtMjI3IDM0OSAtMjYyIDU1MSAtMTYgOTUgLTIwIDI3OSAtOCAzNjAgbDcgNDUgNzMgMTggYzE5MiA0NyAzNDEgMTg5IDM5NgozNzcgMTggNjIgMjEgMTk3IDYgMjY4IC02IDI2IC0yNCA3NSAtNDAgMTA3IGwtMjkgNjAgMzAgMzggYzQ3IDU4IDE5NSAxOTMKMjk5IDI3MiAxMjIgOTIgMjU2IDE3NSAzODMgMjM3IGwxMDAgNDkgNTIgLTQ4IGMyMTcgLTE5OCA1NDYgLTE4NyA3NDggMjcgNDAKNDMgNzggOTUgOTcgMTM3IGwzMiA2NyAxMTIgLTYgYzYxIC00IDE1MyAtMTYgMjA1IC0yNnogbTEzMTYgLTM4MSBjNDQgLTE3IDc2Ci00MCAxMjEgLTg0IDgyIC04MiAxMDggLTE0NyAxMDkgLTI3MiAwIC04NyAtMiAtOTUgLTQwIC0xNzAgLTcwIC0xMzYgLTE4NgotMjA3IC0zNDAgLTIwNyAtMTA3IDAgLTE3NiAyNyAtMjU1IDEwMCAtMTI4IDExOCAtMTYxIDI4NiAtODcgNDQ2IDQzIDk1IDE0OQoxODAgMjU0IDIwNyA2MCAxNSAxNzEgNSAyMzggLTIweiBtLTM3NTkgLTI4MSBjMTIzIC0yMiAyMjQgLTEwMCAyODEgLTIxOCAyNQotNTAgMjggLTY3IDI4IC0xNTYgMCAtODggLTMgLTEwNyAtMjcgLTE1NyAtMzcgLTgwIC0xMDcgLTE1MiAtMTg3IC0xOTEgLTYwCi0yOSAtNzQgLTMyIC0xNjEgLTMyIC04NiAwIC0xMDEgMyAtMTYyIDMyIC04MSAzOCAtMTQ2IDEwMiAtMTg1IDE4MSAtMjYgNTIKLTI4IDY3IC0yOCAxNjcgMCAxMDEgMiAxMTQgMjggMTYzIDU3IDEwOSAxNTMgMTgzIDI2NyAyMDggNzEgMTYgNzYgMTYgMTQ2IDN6Cm0zMDAxIC0xNzA4IGM4NCAtNDAgMTQ2IC0xMDAgMTg2IC0xODAgMzAgLTYxIDMyIC03MyAzMiAtMTY2IDAgLTkzIC0yIC0xMDUKLTMzIC0xNjcgLTQwIC04MyAtMTE5IC0xNTggLTIwMCAtMTg5IC04NiAtMzUgLTIxNiAtMzMgLTI5NCAzIC02MyAyOSAtMTM5IDk0Ci0xNzMgMTQ4IC02MyAxMDEgLTczIDI1NCAtMjMgMzYyIDkwIDE5NSAzMTMgMjc4IDUwNSAxODl6IG0tMjI5MSAtMzA4IGM3NwotNDAgMTU1IC0xMjQgMTg1IC0yMDEgMzIgLTgwIDMyIC0yMDQgMCAtMjg0IC0zMSAtODEgLTEwNiAtMTU5IC0xODkgLTIwMCAtNjIKLTMxIC03NCAtMzMgLTE2NyAtMzMgLTg3IDAgLTEwNyAzIC0xNTYgMjYgLTIzNCAxMTAgLTMwMSA0MTIgLTEzMiA1OTkgODcgOTcKMTcwIDEzMiAzMDMgMTI3IDgzIC0zIDEwMyAtNyAxNTYgLTM0eiIvPgo8L2c+Cjwvc3ZnPgo=&logoColor=black&style=for-the-badge&logoWidth=25
+
+[ms-word]: https://img.shields.io/badge/-Microsoft_Word-2B579A?logo=microsoft%20word&logoColor=white&style=for-the-badge&logoWidth=25
+
+[markdown]: https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge&logoWidth=25
+
+[latex]: https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge&logoWidth=25
+
+[html]: https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=25
+
+[css]: https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=25
+
+[bootstrap]: https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoWidth=25
+
+[atom]: https://img.shields.io/badge/-Atom-1AAF5D?logo=atom&logoColor=white&style=for-the-badge&logoWidth=25
+
+[notepad]: https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&logoColor=black&style=for-the-badge&logoWidth=25
+
+[ubuntu]: https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge&logoWidth=25
+
+[mint]: https://img.shields.io/badge/-Linux_Mint-87CF3E?logo=linux%20mint&logoColor=white&style=for-the-badge&logoWidth=25
+
+[ms-windows]: https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge&logoWidth=25
