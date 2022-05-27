@@ -31,11 +31,6 @@ When not focused on statistics, I'm learning about web development, web design a
 
 ### <p align="center">Where can you find me? 🙋🏻‍♂️ 📍</p>
 
-<div>
-  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="20" align="left"/><a href="https://itsmiguelrojas.github.io/">Visit my website</a></h4>
-  <p>Here you can see all my works, from post writing to data science to creative writing</p>
-</div>
-
 <div align="right">
   <h4><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" align="right"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">Connect with me</a></h4>
   <p>Let's get in contact. Maybe you got something to say or want to get down to work. I'm always open to possibilities, so feel free to talk</p>
