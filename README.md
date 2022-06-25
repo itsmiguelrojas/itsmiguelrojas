@@ -13,7 +13,7 @@ When not focused on statistics, I'm learning about web development, web design a
 
 **Data Science and Data Analytics**
 
-[![R][r-lang]](https://www.r-project.org/) [![Excel][ms-excel]](http://products.office.com/excel) [![LibreOffice Calc][calc]](https://www.libreoffice.org/discover/calc/) [![Geogebra][geogebra]](https://www.geogebra.org/) [![Past][past]](https://www.nhm.uio.no/english/research/infrastructure/past/)
+[![R][r-lang]](https://www.r-project.org/) [![Excel][ms-excel]](http://products.office.com/excel) [![LibreOffice Calc][calc]](https://www.libreoffice.org/discover/calc/) [![Geogebra][geogebra]](https://www.geogebra.org/) [![Past][past]](https://www.nhm.uio.no/english/research/resources/past/)
 
 **Text documents**
 
