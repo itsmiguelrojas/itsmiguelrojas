@@ -17,7 +17,7 @@ When not focused on statistics, I'm learning about web development, web design a
 
 **Text documents**
 
-[![Word][ms-word]](http://products.office.com/word) [![LibreOffice Writer][writer]](https://www.libreoffice.org/discover/writer/) [![Markdown][markdown]](https://daringfireball.net/projects/markdown/) [![LaTeX][latex]](http://www.latex-project.org/) [![EPUB][epub]](https://www.w3.org/publishing/epub3/)
+[![Word][ms-word]](http://products.office.com/word) [![LibreOffice Writer][writer]](https://www.libreoffice.org/discover/writer/) [![Markdown][markdown]](https://daringfireball.net/projects/markdown/) [![LaTeX][latex]](http://www.latex-project.org/) [![EPUB][epub]](https://www.w3.org/publishing/epub3/) [![Obsidian][obsidian]](https://obsidian.md/)
 
  **Web development**
  
@@ -89,3 +89,5 @@ When not focused on statistics, I'm learning about web development, web design a
 [mint]: https://img.shields.io/badge/-Linux_Mint-87CF3E?logo=linux%20mint&logoColor=white&style=for-the-badge&logoWidth=25
 
 [ms-windows]: https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge&logoWidth=25
+
+[obsidian]: https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=for-the-badge&logoWidth=25
