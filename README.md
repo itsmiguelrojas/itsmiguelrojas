@@ -17,7 +17,7 @@ When not focused on statistics, I'm learning about web development, web design a
 
 **Text documents**
 
-[![Word][ms-word]](http://products.office.com/word) [![LibreOffice Writer][writer]](https://www.libreoffice.org/discover/writer/) [![Markdown][markdown]](https://daringfireball.net/projects/markdown/) [![LaTeX][latex]](http://www.latex-project.org/) [![EPUB][epub]](https://www.w3.org/publishing/epub32/)
+[![Word][ms-word]](http://products.office.com/word) [![LibreOffice Writer][writer]](https://www.libreoffice.org/discover/writer/) [![Markdown][markdown]](https://daringfireball.net/projects/markdown/) [![LaTeX][latex]](http://www.latex-project.org/) [![EPUB][epub]](https://www.w3.org/publishing/epub3/)
 
  **Web development**
  
