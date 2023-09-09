@@ -13,7 +13,7 @@ When not focused on statistics, I'm learning about web development, web design a
 
 **Data Science and Data Analytics**
 
-[![R][r-lang]](https://www.r-project.org/) [![Excel][ms-excel]](http://products.office.com/excel) [![LibreOffice Calc][calc]](https://www.libreoffice.org/discover/calc/) [![Geogebra][geogebra]](https://www.geogebra.org/) [![Past][past]](https://www.nhm.uio.no/english/research/resources/past/)
+[![R][r-lang]](https://www.r-project.org/) [![RStudio][rstudio]](https://posit.co/products/open-source/rstudio/) [![Excel][ms-excel]](http://products.office.com/excel) [![LibreOffice Calc][calc]](https://www.libreoffice.org/discover/calc/) [![Geogebra][geogebra]](https://www.geogebra.org/) [![Past][past]](https://www.nhm.uio.no/english/research/resources/past/)
 
 **Text documents**
 
@@ -53,6 +53,8 @@ When not focused on statistics, I'm learning about web development, web design a
 
 <!-- Badges -->
 [r-lang]: https://img.shields.io/badge/-R_language-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=25
+
+[rstudio]: https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge&logoWidth=25
 
 [ms-excel]: https://img.shields.io/badge/-Microsoft_Excel-217346?logo=microsoft%20excel&logoColor=white&style=for-the-badge&logoWidth=25
 
