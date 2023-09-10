@@ -13,7 +13,7 @@ When not focused on statistics, I'm learning about web development, web design a
 
 **Data Science and Data Analytics**
 
-[![R][r-lang]](https://www.r-project.org/) [![RStudio][rstudio]](https://posit.co/products/open-source/rstudio/) [![Excel][ms-excel]](http://products.office.com/excel) [![LibreOffice Calc][calc]](https://www.libreoffice.org/discover/calc/) [![Geogebra][geogebra]](https://www.geogebra.org/) [![Past][past]](https://www.nhm.uio.no/english/research/resources/past/)
+[![RStudio][rstudio]](https://posit.co/products/open-source/rstudio/) [![Excel][ms-excel]](http://products.office.com/excel) [![LibreOffice Calc][calc]](https://www.libreoffice.org/discover/calc/) [![Geogebra][geogebra]](https://www.geogebra.org/) [![Past][past]](https://www.nhm.uio.no/english/research/resources/past/) [![R][r-lang]](https://www.r-project.org/)
 
 **Text documents**
 
@@ -21,7 +21,7 @@ When not focused on statistics, I'm learning about web development, web design a
 
  **Web development**
  
-[![HTML][html]](https://html.spec.whatwg.org/) [![CSS][css]](https://www.w3.org/TR/CSS/#css) [![Bootstrap][bootstrap]](https://getbootstrap.com/) [![Atom][atom]](https://atom.io/) [![Visual Studio Code][vs-code]](https://code.visualstudio.com/) [![Notepad++][notepad]](https://notepad-plus-plus.org/)
+[![Atom][atom]](https://atom.io/) [![Visual Studio Code][vs-code]](https://code.visualstudio.com/) [![Notepad++][notepad]](https://notepad-plus-plus.org/) [![HTML][html]](https://html.spec.whatwg.org/) [![CSS][css]](https://www.w3.org/TR/CSS/#css) [![Bootstrap][bootstrap]](https://getbootstrap.com/)
 
 **OS**
 
