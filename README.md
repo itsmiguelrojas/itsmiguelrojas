@@ -21,7 +21,7 @@ When not focused on statistics, I'm learning about web development, web design a
 
  **Web development**
  
-[![Atom][atom]](https://atom.io/) [![Visual Studio Code][vs-code]](https://code.visualstudio.com/) [![Notepad++][notepad]](https://notepad-plus-plus.org/) [![HTML][html]](https://html.spec.whatwg.org/) [![CSS][css]](https://www.w3.org/TR/CSS/#css) [![Bootstrap][bootstrap]](https://getbootstrap.com/)
+[![Visual Studio Code][vs-code]](https://code.visualstudio.com/) [![Notepad++][notepad]](https://notepad-plus-plus.org/) [![HTML][html]](https://html.spec.whatwg.org/) [![CSS][css]](https://www.w3.org/TR/CSS/#css) [![Bootstrap][bootstrap]](https://getbootstrap.com/)
 
 **OS**
 
@@ -79,8 +79,6 @@ When not focused on statistics, I'm learning about web development, web design a
 [css]: https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=25
 
 [bootstrap]: https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoWidth=25
-
-[atom]: https://img.shields.io/badge/-Atom-1AAF5D?logo=atom&logoColor=white&style=for-the-badge&logoWidth=25
 
 [vs-code]: https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge&logoWidth=25
 
