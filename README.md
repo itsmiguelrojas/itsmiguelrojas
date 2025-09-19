@@ -31,19 +31,14 @@ When not focused on statistics, I'm learning about web development, web design a
 
 ### <p align="center">Where can you find me? 🙋🏻‍♂️ 📍</p>
 
-<div align="right">
-  <h4><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" align="right"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">Connect with me</a></h4>
+<div>
+  <h4><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" align="left"/><a href="https://www.linkedin.com/in/itsmiguelrojas/">Connect with me</a></h4>
   <p>Let's get in contact. Maybe you got something to say or want to get down to work. I'm always open to possibilities, so feel free to talk</p>
 </div>
 
-<div>
+<div align="left">
   <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" width="45" align="left"/><a href="https://www.fiverr.com/itsmiguelrojas">Work with me</a></h4>
   <p>I can do your data analysis and schematics illustration. Go check it out yourself!</p>
-</div>
-
-<div align="right">
-  <h4><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="20" align="right"/><a href="https://www.instagram.com/itsmiguelrojas/">See my posts</a></h4>
-  <p>I'm constantly showing visuals of what I do and explain what it is used for</p>
 </div>
 
 <div>
